@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ARapp</string>
+    <string name="no_data_found">No data found :(</string>
+    <string name="search_by_name_or_repo">Search by name or repo</string>
+    <string name="repos">Repos:</string>
+    <string name="login">Login: %1$s</string>
+</resources>
